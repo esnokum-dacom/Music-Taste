@@ -39,7 +39,7 @@
         "albumart": ""
         },
         "thought":{}
-      {,
+      },
       "jun":{
         "album":{
         "albumname": "",
@@ -96,6 +96,5 @@
         },
         "thought":{}
       },
-    ]
   ]
 }
