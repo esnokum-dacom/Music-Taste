@@ -1,12 +1,11 @@
 {
-    {
-      {
-        "album": {
-          "albumname": "Can't Get Enough",
-          "artistname": "Barry White",
-          "thought": "This is a very good album, I love every album of this artist, this is my favorite eveeerrrrr... this album represents too much feeling for me, plsssss listen to this album",
-          "albumart": "https://ia804501.us.archive.org/13/items/mbid-a52d88a4-103d-4a94-b1f9-8a54931545f7/mbid-a52d88a4-103d-4a94-b1f9-8a54931545f7-7948790095.jpg"
+    "album":[
+        {
+            "id": 1,
+            "albumname": "Can't Get Enough",
+            "artistname": "Barry White",
+            "thought": "This is a very good album, I love every album of this artist, this is my favorite eveeerrrrr... this album represents too much feeling for me, plsssss listen to this album",
+            "albumart": "https://ia804501.us.archive.org/13/items/mbid-a52d88a4-103d-4a94-b1f9-8a54931545f7/mbid-a52d88a4-103d-4a94-b1f9-8a54931545f7-7948790095.jpg"
         }
-      }
-    }
+    ]
 }
