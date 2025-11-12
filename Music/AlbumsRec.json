@@ -23,6 +23,14 @@
             "artistname": "Metallica",
             "thought": "This album is my favorite when talk about Metallica, this is my favorite album andddd for past the time is so good, recommended ",
             "albumart": "https://dn710707.ca.archive.org/0/items/mbid-0d099294-ec29-4d0b-821d-202a32c85a14/mbid-0d099294-ec29-4d0b-821d-202a32c85a14-25181401889.jpg"
-        }
+        }, 
+        {
+            "id": 4, 
+            "month": "April ",
+            "albumname": "Visions",
+            "artistname": "Stratovarius",
+            "thought": "This album is top on my list of albums, i love this album for one reason, i start to listen power metal with this album" ,
+            "albumart": "https://dn721904.ca.archive.org/0/items/mbid-9a807403-2156-4b42-ac71-9a9208270678/mbid-9a807403-2156-4b42-ac71-9a9208270678-38903785872.jpg"
+         } 
     ]
 }
