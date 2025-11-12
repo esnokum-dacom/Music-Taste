@@ -2,6 +2,7 @@
     "album":[
         {
             "id": 1,
+            "month": "january",
             "albumname": "Can't Get Enough",
             "artistname": "Barry White",
             "thought": "This is a very good album, I love every album of this artist, this is my favorite eveeerrrrr... this album represents too much feeling for me, plsssss listen to this album",
@@ -9,6 +10,7 @@
         },
         {
             "id": 2,
+            "month": "february",
             "albumname": "Crystals",
             "artistname": "Sam Rivers",
             "thought": "This album is perfection... on my favorite album jazz is top and the artist is the best in jazz for me, pls listen this album...",
