@@ -1,65 +1,67 @@
 {
   "25":[
-      "january":[
+      "january":{
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
+      },
+      "february":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "february":[
+      },
+      "march":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "march":[
+      },
+      "april":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "april":[
+      },
+      "may":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "may":[
+      {,
+      "jun":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "jun":[
+      },
+      "july":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "july":[
+      },
+      "august":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "august":[
+      },
+      "september":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "september":[
+      },
+      "october":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "october":[
+      },
+      "november":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "november":[
+      },
+      "december":{
         "albname":{},
         "artistname":{},
         "thought":[]
-      ],
-      "december":[
-        "albname":{},
-        "artistname":{},
-        "thought":[]
-      ],
+      },
     ]
   ]
 }
