@@ -8,59 +8,81 @@
         "thought":{}
       },
       "february":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "march":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "april":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "may":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       {,
       "jun":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "july":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "august":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "september":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "october":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "november":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
       "december":{
-        "albname":{},
-        "artistname":{},
-        "thought":[]
+        "album":{
+        "albumname": "",
+        "artistname": ""
+        },
+        "thought":{}
       },
     ]
   ]
