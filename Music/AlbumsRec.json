@@ -2,7 +2,7 @@
     "album":[
         {
             "id": 1,
-            "month": "january",
+            "month": "January",
             "albumname": "Can't Get Enough",
             "artistname": "Barry White",
             "thought": "This is a very good album, I love every album of this artist, this is my favorite eveeerrrrr... this album represents too much feeling for me, plsssss listen to this album",
@@ -10,11 +10,19 @@
         },
         {
             "id": 2,
-            "month": "february",
+            "month": "February",
             "albumname": "Crystals",
             "artistname": "Sam Rivers",
             "thought": "This album is perfection... on my favorite album jazz is top and the artist is the best in jazz for me, pls listen this album...",
             "albumart": "https://dn721208.ca.archive.org/0/items/mbid-db18fa26-503a-4f34-b849-9471eb2fe347/mbid-db18fa26-503a-4f34-b849-9471eb2fe347-22175729580.jpg"
-        }
+        },
+        {
+            "id": 3, 
+            "month": "March",
+            "albumname": "Kill'Em All",
+            "artistname": "Metallica ",
+            "thought": "This album is my favorite when talk about Metallica, this is my favorite album andddd for past the time is so good, recommended ",
+            "albumart": "https://dn710707.ca.archive.org/0/items/mbid-0d099294-ec29-4d0b-821d-202a32c85a14/mbid-0d099294-ec29-4d0b-821d-202a32c85a14-25181401889.jpg"
+        },
     ]
 }
