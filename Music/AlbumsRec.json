@@ -1,40 +1,64 @@
 {
   "25":[
       "january":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "february":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "march":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "april":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "may":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "jun":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "july":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "august":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "september":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "october":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "november":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
       "december":[
-        "":{}
+        "albname":{},
+        "artistname":{},
+        "thought":[]
       ],
     ]
   ]
