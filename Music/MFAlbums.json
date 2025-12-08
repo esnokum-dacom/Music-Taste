@@ -87,6 +87,59 @@
         {
             "id": 22,
             "albumart": "https://dn710609.ca.archive.org/0/items/mbid-31190615-d6d6-4855-afec-8fb99f98ae22/mbid-31190615-d6d6-4855-afec-8fb99f98ae22-17120029720.jpg"
+        },
+
+        {
+            "id": 23,
+            "albumart": "https://a1.mzstatic.com/r40/Music4/v4/ea/b0/4d/eab04d98-dfea-ca7b-41d9-71f89a284312/00724385489853.jpg"
+        },
+
+        {
+            "id": 24,
+            "albumart": "https://a1.mzstatic.com/r40/Music211/v4/04/55/88/04558895-f8c0-67e0-c787-29bd52245681/199284239753_cover.jpg"
+        },
+
+        {
+            "id": 25,
+            "albumart": "https://a1.mzstatic.com/r40/Music122/v4/08/da/6e/08da6e06-0646-8921-3ff2-06a9c5d1030a/cover.jpg"
+        },
+        
+        {
+            "id": 26,
+            "albumart": "https://a1.mzstatic.com/r40/Music124/v4/1f/6d/87/1f6d8779-d60c-8a32-553d-1e2e101d6043/jacket_AIXX00219B00Z_550.jpg"
+        },
+        {
+            "id": 27,
+            "albumart": "https://a1.mzstatic.com/r40/Music116/v4/5f/b3/e0/5fb3e08d-c2cd-3da4-6ad7-c5dc61803683/cover.jpg"
+        },
+        {
+            "id": 28,
+            "albumart": "https://a1.mzstatic.com/r40/Music221/v4/c8/30/08/c83008f6-cc4b-0585-675c-3b5e9e3a52c5/3559.jpg"
+        },
+
+        {
+            "id": 29,
+            "albumart": "https://cdn-images.dzcdn.net/images/cover/d0532f8fbe9cb0eabd385508e52b597f/1400x0-000000-100-0-0.jpg"
+        },
+        
+        {
+            "id": 30,
+            "albumart": "https://a1.mzstatic.com/r40/Music124/v4/c7/c9/92/c7c99256-cb22-ed37-c7ca-2f0d2800bcb8/093624919735.jpg"
+        },
+        
+        {
+            "id": 31,
+            "albumart": "https://a1.mzstatic.com/r40/Music118/v4/48/ac/88/48ac883b-f42a-3c53-9dd3-212257e71818/00082839525626.rgb.jpg"
+        },
+        
+        {
+            "id": 32,
+            "albumart": "https://a1.mzstatic.com/r40/Music112/v4/92/94/44/92944475-7eee-76e9-fa2a-27d0a9ab7adf/1963621982683_cover.jpg"
+        },
+        
+        {
+            "id": 33,
+            "albumart": "https://a1.mzstatic.com/r40/Music128/v4/7a/26/15/7a2615f9-4682-c5ed-699d-dd60ac3c373c/00602547191717.rgb.jpg"
         }
   ]
 }
